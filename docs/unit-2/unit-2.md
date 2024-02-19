@@ -1,6 +1,7 @@
 # Code & Tasks
 
 
+In the below activities, I executed the exploratory data analysis steps by uploading the data to Google Drive and running the analysis through Colab,
 
 
 ### Fuel Consumption EDA Prediction
