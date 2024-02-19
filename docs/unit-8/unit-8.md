@@ -1,12 +1,11 @@
 # Code & Tasks
 
-1. Collaborative Discussion 2: Legal and Ethical views on ANN applicationsForum
-
-2. Read the Mayo, 2017 article and then run the tutorial: gradient_descent_cost_function.ipynb. Change the iteration number and learning_rate and observe how cost decreases.
-
-** check whether anything else is needed here from the seminar discussion.
-
 
 ### Gradient Descent Cost Function
-<a href="https://colab.research.google.com/drive/1aMvLTPLfZttQslML1GdMDA7kCCVfpwzc" target="_blank">Colab Notebook: Gradient Descent Cost Function</a>
+
+Gradient descent is an optimization algorithm used to minimize the cost function in machine learning models by iteratively moving towards the direction of the steepest decrease in cost or error.
+
+In this activity I experimented with various epochs and learning rates to observe how the values are changing with these hyperparameter changes.
+
+<a href="https://github.com/hpieris-essex/hpieris-essex.github.io/blob/ml-module/docs/unit-8/Gradient_Descent_Cost_Function.ipynb" target="_blank">Colab Notebook: Gradient Descent Cost Function</a>
 <br/>
