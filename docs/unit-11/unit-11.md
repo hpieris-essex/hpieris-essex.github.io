@@ -13,7 +13,6 @@ In this task, I experimented with different parameters to how they imapct the mo
 For example, changing the y_pred data to match y_true results in an R<sup>2</sup> value of 1.
 
 ### Model Performance Measurement
-<a href="https://colab.research.google.com/drive/1XIpIBDODbqEBwcVd2B3X8epx12f2OGOE" target="_blank">Colab Notebook: Model Performance Measurement</a>
-<br/>
-<a href="https://colab.research.google.com/drive/1XIpIBDODbqEBwcVd2B3X8epx12f2OGOE" target="_blank">Colab Notebook: Model Performance Measurement</a>
+
+<a href="https://github.com/hpieris-essex/hpieris-essex.github.io/blob/ml-module/docs/unit-11/Model_Performance_Measurement.ipynb" target="_blank">Jupyter Notebook: Model Performance Measurement</a>
 <br/>
