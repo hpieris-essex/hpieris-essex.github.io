@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Essex E-Portfolio',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'Machine Learning, Data Science, and Software Engineering',
   favicon: 'img/favicon.ico',
   noIndex: true,
 
