@@ -1,4 +1,4 @@
-# Training an Artificial Neural Network
+# Code & Tasks
 
 1. Collaborative Discussion 2: Legal and Ethical views on ANN applicationsForum
 
