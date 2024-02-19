@@ -2,7 +2,7 @@
 
 A perceptron is a single-layer neural network and the simplest form of an artificial neural network (ANN). It computes a weighted sum of its input features and applies a threshold function to determine the output.
 
-An activation function in a perceptron, such as the step function, acts as an operator that decides whether a neuron should be activated or not based on the weighted sum of the inputs.
+An activation function in a perceptron acts as an operator that decides whether a neuron should be activated or not based on the weighted sum of the inputs.
 
 A Multilayer Perceptron consists of multiple layers of perceptrons, including input, hidden, and output layers, enabling it to model complex nonlinear relationships through backpropagation.
 
