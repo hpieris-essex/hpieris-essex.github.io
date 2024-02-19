@@ -1,4 +1,0 @@
-# Clustering
-
-Jaccard Coefficient Calculations
-
