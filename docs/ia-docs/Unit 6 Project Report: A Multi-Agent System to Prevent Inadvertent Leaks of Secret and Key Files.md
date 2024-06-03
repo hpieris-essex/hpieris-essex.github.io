@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
 
 In the modern age of interconnected technologies, cybersecurity is a key concern for any organization. Compromised security keys have contributed to high-profile security breaches, such as the SolarWinds, Microsoft, FireEye, and CrowdStrike incidents (Reuters, 2021). To solve this pressing issue, we propose a multi-agent system for digital forensics. The proposed system is capable of identifying and quarantining files containing secrets and keys. By doing so, our system aims to mitigate the risk of inadvertent exposure of these secrets and security breaches using exposed secrets and keys.

@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 6
 ---
 
 The advent of deep learning technologies, such as Dall-E for generating images and ChatGPT for creating prose, presents ethical challenges that need careful attention. These challenges include misinformation/ deepfakes, intellectual property violations, bias, job displacement, and privacy concerns.
