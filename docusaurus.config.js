@@ -78,6 +78,12 @@ const config = {
             label: 'Machine Learning',
           },
           {
+            type: 'docSidebar',
+            sidebarId: 'iaSidebar',
+            position: 'left',
+            label: 'Intelligent Agents',
+          },
+          {
             label: 'GitHub',
             href: 'https://github.com/hpieris-essex/hpieris-essex.github.io',
           },
