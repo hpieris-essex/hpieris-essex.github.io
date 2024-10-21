@@ -2,7 +2,9 @@
 sidebar_position: 8
 ---
 
-# Introduction
+# Literature Review Outline
+
+#### Introduction
 1. Definition and Importance of Sentiment Analysis
    - Subfield of NLP that classifies and interprets subjective information from text.
    - Applications: social media monitoring, customer feedback, financial market predictions.
@@ -11,7 +13,7 @@ sidebar_position: 8
 3. Deep Learning Techniques Overview
    - Introduction of RNNs, CNNs, transformers improved sentiment analysis.
 
-# Background and Context
+#### Background and Context
 1. Purpose of Sentiment Analysis
    - Used in industries such as business (customer sentiment) and politics (public opinion).
 2. Limitations of Traditional Machine Learning in Sentiment Analysis
@@ -20,7 +22,7 @@ sidebar_position: 8
 3. Shift to Deep Learning
    - RNNs, CNNs, and transformers provide more effective sentiment analysis by automatically capturing linguistic nuances.
 
-# Literature Search Methodology
+#### Literature Search Methodology
 1. Databases Used
    - Google Scholar, ACL Anthology, IEEE Xplore, ACM Digital Library.
 2. Keywords
@@ -30,7 +32,7 @@ sidebar_position: 8
 4. Organizational Approach
    - Literature grouped by technique (CNNs, RNNs, transformers) and challenges (data imbalance, interpretability, resource demands).
 
-# Deep Learning Techniques in Sentiment Analysis
+#### Deep Learning Techniques in Sentiment Analysis
 1. Recurrent Neural Networks (RNNs)
    - Effective at capturing sequential data and context.
    - Challenges: Vanishing gradient problem, long-range dependency issues. LSTMs and GRUs developed to overcome this.
@@ -44,7 +46,7 @@ sidebar_position: 8
    - Combination of CNNs and RNNs to leverage local and sequential information.
    - Attention mechanisms further improve focus on relevant input parts.
 
-# Challenges and Limitations
+#### Challenges and Limitations
 1. Data Imbalance
    - Imbalanced datasets skew results toward majority sentiment class.
    - Solutions: Oversampling, undersampling, cost-sensitive learning.
@@ -54,7 +56,7 @@ sidebar_position: 8
    - Transformers and other deep learning models require significant computational power and large datasets.
    - Resource demands limit real-time scalability.
 
-# Comparison of Approaches
+#### Comparison of Approaches
 1. Strengths and Weaknesses of RNNs, CNNs, and Transformers
    - RNNs: Sequential data processing but slow and computationally heavy.
    - CNNs: Faster, efficient for short texts but limited in long-range dependencies.
@@ -63,7 +65,7 @@ sidebar_position: 8
    - BERT achieves higher F1 scores and accuracy than RNNs and CNNs.
    - CNNs may perform comparably to transformers for simpler tasks with lower resource costs.
 
-# Future Directions
+#### Future Directions
 1. Explainable AI (XAI)
    - Improving model interpretability to build trust in sectors like finance and healthcare.
 2. Few-shot Learning
@@ -73,7 +75,7 @@ sidebar_position: 8
 4. Ethical Considerations
    - Addressing bias in training data to ensure fairness in model predictions.
 
-# Conclusion
+#### Conclusion
 1. Summary of Findings
    - Deep learning techniques have improved sentiment analysis, but challenges remain.
 2. Future Research Priorities
