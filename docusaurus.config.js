@@ -84,6 +84,12 @@ const config = {
             label: 'Intelligent Agents',
           },
           {
+            type: 'docSidebar',
+            sidebarId: 'rdSidebar',
+            position: 'left',
+            label: 'Research Methods and Professional Practice',
+          },
+          {
             label: 'GitHub',
             href: 'https://github.com/hpieris-essex/hpieris-essex.github.io',
           },
