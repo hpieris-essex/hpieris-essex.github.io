@@ -65,7 +65,7 @@ The results from the two weight loss diets indicate that, on average, participan
 **Open the Excel workbook Exa 8.2B.xlsx from the Exercises folder. Obtain the sample median, first and third quartiles and the sample interquartile range of the weight loss for Diet B. Place these results in the block of cells F26 to F29, using the same format as that employed for the Diet A results in the 
 above example.Briefly interpret your findings. What do these results tell you about the relative effectiveness of the two weight-reducing diets**
 
-[Link to The Excel Worksheet]()
+[Link to The Excel Worksheet](https://docs.google.com/spreadsheets/d/1_-wN5dYLVDx6k00RepFrWvvRXTiqybLw/edit?usp=drive_link&ouid=104509639658132351822&rtpof=true&sd=true)
 
 For Diet A, participants experienced an average weight loss of 5.341 kg, with a median of 5.642 kg. In comparison, participants on Diet B had an average weight loss of 3.710 kg, with a median of 3.745 kg. This suggests that Diet A was more effective in reducing weight, as it had both a higher mean and median weight loss.
 
