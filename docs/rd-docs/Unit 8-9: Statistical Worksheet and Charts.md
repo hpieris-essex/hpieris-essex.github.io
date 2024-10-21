@@ -10,7 +10,6 @@ sidebar_position: 15
 
 [Link to The Excel Worksheet](https://docs.google.com/spreadsheets/d/1ii1ZzAQcD7buFLzKytET54yWDQret4Th/edit?gid=694346635#gid=694346635)
 
-<iframe src="https://docs.google.com/spreadsheets/d/1ii1ZzAQcD7buFLzKytET54yWDQret4Th/edit?gid=694346635#gid=694346635" width="100%" height="600"></iframe>
 
 The percentage frequency bar chart reveals notable differences in brand preferences between Area 1 and Area 2. In Area 2, Out of the two brands of interest, Brand B is the most preferred, with 33.3% of respondents favoring it, compared to 24.3% in Area 1. This indicates a stronger preference for Brand B in Area 2. Brand A also has a higher preference in Area 2, at 21.1%, compared to 15.7% in Area 1. Conversely, the "Other" category has a significantly higher percentage in Area 1 (60.0%) than in Area 2 (45.6%), suggesting that respondents in Area 1 tend to prefer brands outside of A and B more than those in Area 2.
 
